@@ -38,7 +38,7 @@ git clone https://github.com/your-username/Hacktoberfest2021-Python-Projects.git
 ``` bash
 git add .
 git commit -m "Your Project Title"
-git push origin branch-name
+git push 
 ```
 6. Now before sending a PR, make sure you 'Fetch Upstream' to avoid any kind of conflicts.
 7. Send a PR with your Project Title & Your Github Name. Adding 1 or 2 line project description is mandatory.
