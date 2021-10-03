@@ -44,6 +44,9 @@ git push
 7. Send a PR with your Project Title & Your Github Name. Adding 1 or 2 line project description is mandatory.
 
 
-## Rules 
+## Rules & FAQs
 
-1. 
+1. Minor modifications will not be counted.
+2. You will be banned immediately after 3 invalid PRs.
+3. Don't just Copy Paste the code from Internet, we will review your code and then only it will be merged.
+4. Modifing existing projects / Solving Issues will also be counted as contribution.
