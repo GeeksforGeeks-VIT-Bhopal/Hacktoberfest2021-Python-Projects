@@ -34,4 +34,16 @@ git clone https://github.com/your-username/Hacktoberfest2021-Python-Projects.git
 ```
 3. Move into your desired Task folder, and create a new repository in format : **YOUR-PROJECT-TITLE-YOUR-NAME** . First name should be your **Unique Project Title** followed by your Github handle, which will be separated by ' **-** ' 
 4. Now read the Project-Description from README.md file, and add your project code.
-5. 
+5. Now Commit & Push, using :
+``` bash
+git add .
+git commit -m "Your Project Title"
+git push origin branch-name
+```
+6. Now before sending a PR, make sure you 'Fetch Upstream' to avoid any kind of conflicts.
+7. Send a PR with your Project Title & Your Github Name. Adding 1 or 2 line project description is mandatory.
+
+
+## Rules 
+
+1. 
