@@ -20,6 +20,8 @@ https://hacktoberfest.digitalocean.com/
 
 - We have built this repository with an aim of making a super collection of Python Projects. We have assigned you some tasks which are listed above. Now it's your turn to complete the projects and send us a Pull Request (See below for more details), & put your contribution in the open-source project.
 - There are separate Repositories named as Task-1, Task-2, etc. Each repository consists of Project Details, where you'll get to know what are our expectations from that particular project.
+
+
 **NOTE:** More than 1 person can submit same project (Again, see below for details).
 
 ## How to Contribute ??
