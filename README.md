@@ -24,4 +24,14 @@ https://hacktoberfest.digitalocean.com/
 
 ## How to Contribute ??
 
-Strictly follow the given rules
+Strictly follow the given rules(unless mentioned optional) before sending us a PR.
+
+1. Fork this Repository(by clicking Fork Icon on top right of the repository), to your profile.
+2. Now, clone this repository to your Local Machine using:
+``` bash
+git clone https://github.com/your-username/Hacktoberfest2021-Python-Projects.git
+
+```
+3. Move into your desired Task folder, and create a new repository in format : **YOUR-PROJECT-TITLE-YOUR-NAME** . First name should be your **Unique Project Title** followed by your Github handle, which will be separated by ' **-** ' 
+4. Now read the Project-Description from README.md file, and add your project code.
+5. 
