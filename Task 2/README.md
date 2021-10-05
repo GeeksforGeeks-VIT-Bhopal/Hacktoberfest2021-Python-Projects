@@ -1,4 +1,4 @@
-# Random Password Generator
+# Simple Calculator
 
 - ## About:
 In this task we expect you all to create a Simple Calculator program having the basic arithmetic functionality (+,-,*,/).
