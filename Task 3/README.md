@@ -1,4 +1,4 @@
-# Random Password Generator
+# Power Control Panel
 
 - ## About:
 Opening the Start Menu, going into Power Control to Shutdown, Hibernate, Restart or Log off is too boring and old school. It would be so awesome if we could do all that with Python.
