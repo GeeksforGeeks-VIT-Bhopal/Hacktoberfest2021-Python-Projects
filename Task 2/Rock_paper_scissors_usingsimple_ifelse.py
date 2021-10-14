@@ -4,7 +4,7 @@ while True:
 2=Paper
 3= Scissor''')
                 b= int(input("enter 1,2 or 3"))
-                c=random.randint(1,2)
+                c=random.randint(1,2) # will choose any no 1,2 or 3
                 if b==1 and c==2:
                                 print("user loses")
                                 print("rock loses from paper")
@@ -25,8 +25,10 @@ while True:
                                 print("scissors wins from paper")
                 else :
                                 print("tie")
-                d=input("do you want to continue yes =y or no=n")
+                d=input("do you want to continue yes =y or no=n") #for continuation of while loop
                 if d.lower()!='y':
                                 break
+                            #breaks the while loop
                 else:
-                                continue
+                                continue 
+                            #will lead to execution of loop again
