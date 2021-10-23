@@ -78,6 +78,12 @@ def clicked5():
     btn7.pack(pady='10')
 btn2 = Button(window1, text = 'Delete a Task', command = clicked5)
 btn2.pack(pady = 10)
+def clicked2():
+    global counter
+    litbox1.delete(0, 'end')
+    counter = 1
+btn4 = Button(window1, text='Clear', command=clicked2)
+btn4.pack(pady=10)
 btn3 = Button(window1, text = 'Exit', command = clicked3)
 btn3.pack(pady = 10)
 mainloop()
