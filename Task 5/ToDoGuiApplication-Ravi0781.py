@@ -3,7 +3,7 @@ from tkinter.ttk import *
 from tkinter import messagebox
 window1 = Tk()
 window1.title("To-Do List")
-window1.geometry('400x400')
+window1.geometry('500x500')
 lb2 = Label(window1, text = 'Tasks:')
 lb2.pack(pady = 10)
 litbox1 = Listbox(window1, height = 10, width = 30, activestyle = 'dotbox')
